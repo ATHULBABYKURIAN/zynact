@@ -3,5 +3,8 @@ body {
   margin: 0;
   overflow: hidden;
   background-repeat: no-repeat;
-  filter:blur(10px);
+  
+}
+.canvas{
+  filter:blur(30px);
 }
